@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "BlueVenn",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(11, 49, 89)",
+      "toolbar_text": "rgb(255, 109, 0)",
+      "frame": "rgb(11, 49, 89)",
+      "tab_background_text": "rgb(255, 109, 0)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(255, 109, 0)",
+      "popup": "rgb(11, 49, 89)",
+      "popup_text": "rgb(255, 109, 0)",
+      "tab_loading": "rgb(255, 109, 0)"
+    }
+  }
+}
